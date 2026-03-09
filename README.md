@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+$\color{pink}{\textsf{“ what's a human being gotta be like? ”}}$
+</a>
+</p>
 
-<!--
-**dearestpink/dearestpink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://files.catbox.moe/p6b86y.png"width="500" >
+</a>
+</p>
+<p align="center">
+$\color{pink}{\textsf{“ what's a way to just be competent? ”}}$
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+$\color{pink}{\textsf{rpdni. i am not a fuckig pink addison roleplayer for fuck Sakes.}}$
+</a>
+</p>
