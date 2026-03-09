@@ -18,6 +18,6 @@ $\color{pink}{\textsf{rpdni. i am not a fuckig pink addison roleplayer for fuck 
 </p>
 
 <p align="center">
-$\color{pink}{\textsf{SHE/HER PINK. THANKS.}}$
+$\color{pink}{\textsf{SHE/HER PINK. THANKS}}$
 </a>
 </p
