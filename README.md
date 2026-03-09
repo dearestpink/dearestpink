@@ -1,5 +1,5 @@
 <p align="center">
-$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike?ㅤ”}}$
+$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlikeㅤ?ㅤ”}}$
 </a>
 </p>
 
@@ -8,7 +8,7 @@ $\color{pink}{\textsf{“ㅤwhat'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike?ㅤ�
 </a>
 </p>
 <p align="center">
-$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤwayㅤtoㅤjustㅤbeㅤcompetent?ㅤ”}}$
+$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤwayㅤtoㅤjustㅤbeㅤcompetentㅤ?ㅤ”}}$
 </a>
 </p>
 
