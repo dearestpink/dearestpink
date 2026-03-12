@@ -13,7 +13,7 @@ $\color{pink}{\textsf{“ㅤwhat'sㅤaㅤwayㅤtoㅤjustㅤbeㅤcompetentㅤ?ㅤ
 </p>
 
 <p align="center">
-$\color{pink}{\textsf{rp iwec. im not a pink addison roleplayer. thanks. shes my GIRLFRIEND.}}$
+$\color{pink}{\textsf{RPiwec. im not a pink addison roleplayer}}$
 </a>
 </p>
 
