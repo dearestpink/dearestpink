@@ -1,5 +1,5 @@
 <p align="center">
-$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlikeㅤ?ㅤ”}}$
+$\color{pink}{\textsf{it's just like seeing}}$ $\color{skyblue}{\textsf{her}}$ $\color{pink}{\textsf{for the first time, again}}$
 </a>
 </p>
 
@@ -7,17 +7,13 @@ $\color{pink}{\textsf{“ㅤwhat'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlikeㅤ?�
 <img src="https://files.catbox.moe/4qp9h7.png"width="500" >
 </a>
 </p>
-<p align="center">
-$\color{pink}{\textsf{“ㅤwhat'sㅤaㅤwayㅤtoㅤjustㅤbeㅤcompetentㅤ?ㅤ”}}$
-</a>
-</p>
+
 
 <p align="center">
-$\color{pink}{\textsf{RPiwec. im not a pink addison roleplayer}}$
+$\color{pink}{\textsf{i dont roleplay}}$
 </a>
 </p>
-
 <p align="center">
-$\color{pink}{\textsf{SHE/HER PINK. THANKS}}$
+$\color{pink}{\textsf{she/her LESBIAN pink}}$ $\color{red}{\textsf{if you see pnik as a Male fuck you}}$
 </a>
 </p
